@@ -1,0 +1,37 @@
+
+Correctly Classified Instances          17               29.3103 %
+Incorrectly Classified Instances        41               70.6897 %
+Kappa statistic                          0.2034
+Mean absolute error                      0.1562
+Root mean squared error                  0.3655
+Relative absolute error                 79.1867 %
+Root relative squared error            116.3296 %
+Total Number of Instances               58     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.333    0.000    1.000      0.333    0.500      0.533    0.796     0.630     体育
+                 0.083    0.000    1.000      0.083    0.154      0.259    0.649     0.327     军事
+                 1.000    0.712    0.140      1.000    0.245      0.201    0.700     0.181     历史
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         时事
+                 0.273    0.000    1.000      0.273    0.429      0.483    0.674     0.436     汽车
+                 0.000    0.000    0.000      0.000    0.000      0.000    ?         ?         电影
+                 0.100    0.000    1.000      0.100    0.182      0.290    0.594     0.275     科技
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.704     0.111     综艺娱乐
+                 0.667    0.073    0.333      0.667    0.444      0.432    0.852     0.290     美食
+Weighted Avg.    0.293    0.077    0.808      0.293    0.296      0.349    0.694     0.370     
+
+=== Confusion Matrix ===
+
+ a b c d e f g h i   <-- classified as
+ 4 0 7 0 0 0 0 0 1 | a = 体育
+ 0 1 9 0 0 0 0 0 2 | b = 军事
+ 0 0 6 0 0 0 0 0 0 | c = 历史
+ 0 0 0 0 0 0 0 0 0 | d = 时事
+ 0 0 8 0 3 0 0 0 0 | e = 汽车
+ 0 0 0 0 0 0 0 0 0 | f = 电影
+ 0 0 8 0 0 0 1 0 1 | g = 科技
+ 0 0 4 0 0 0 0 0 0 | h = 综艺娱乐
+ 0 0 1 0 0 0 0 0 2 | i = 美食
+

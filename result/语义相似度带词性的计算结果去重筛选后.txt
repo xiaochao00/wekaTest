@@ -1,0 +1,89 @@
+电影 similarity attribute list is : 影片 综艺 节目 动画 短片 电视剧
+汽车 similarity attribute list is : 车 单车 列车
+部 similarity attribute list is : 部队
+做法 similarity attribute list is :  门 措施
+香 similarity attribute list is : 美味
+好吃 similarity attribute list is : 鲜
+做 similarity attribute list is : 出席
+比赛 similarity attribute list is : 赛
+军 similarity attribute list is : 部队
+中国 similarity attribute list is : 缅甸
+男子 similarity attribute list is : 老爷子 
+惊 similarity attribute list is : 震惊
+酱 similarity attribute list is : 虾酱
+线 similarity attribute list is :  全线 丝线
+故事 similarity attribute list is : 事件 事情 事项 事实
+发生 similarity attribute list is : 煎 爆发 研发
+道 similarity attribute list is :  措施 全线
+队 similarity attribute list is : 人群 全民
+足球 similarity attribute list is : 篮球
+文章 similarity attribute list is : 评语 报告
+伤 similarity attribute list is : 危害 侮辱 羞辱
+人工智能 similarity attribute list is :  考古 科学
+改编 similarity attribute list is : 制定
+直播 similarity attribute list is : 播
+成都 similarity attribute list is : 郑州 呼和浩特 常州 合肥 南宁 南昌 南阳 青岛 长沙
+数据 similarity attribute list is : 信
+系统 similarity attribute list is : 科学
+驱逐舰 similarity attribute list is : 航母 舰船
+发射 similarity attribute list is : 炸 传递
+警方 similarity attribute list is : 公安局
+军人 similarity attribute list is : 士兵
+司机 similarity attribute list is : 飞行员 驾驶员
+第十一 similarity attribute list is : 第八
+蛋糕 similarity attribute list is : 小吃 豆腐
+服役 similarity attribute list is : 入伍
+身亡 similarity attribute list is : 死亡
+军队 similarity attribute list is : 自卫队 联军
+武器 similarity attribute list is : 铁
+镇 similarity attribute list is : 小镇
+书记 similarity attribute list is : 员工 公务员
+乾隆 similarity attribute list is : 光绪
+妻子 similarity attribute list is : 妈妈 
+学校 similarity attribute list is : 学院 中学
+加盟 similarity attribute list is : 联合
+南瓜 similarity attribute list is : 萝卜
+课 similarity attribute list is : 专业
+贵妃 similarity attribute list is : 皇后
+重点 similarity attribute list is : 基础
+邓小平 similarity attribute list is : 蒋介石
+铁路 similarity attribute list is : 街 全线
+钩 similarity attribute list is : 分子
+道理 similarity attribute list is :  逻辑
+遇 similarity attribute list is : 会晤
+辩论 similarity attribute list is : 争执
+辈 similarity attribute list is : 人群
+病人 similarity attribute list is : 患者
+百 similarity attribute list is : 亿万
+箭 similarity attribute list is : 猎枪
+研 similarity attribute list is : 研究
+研究所 similarity attribute list is : 研究院
+火 similarity attribute list is : 猎枪
+炮 similarity attribute list is : 猎枪
+理 similarity attribute list is : 考古 逻辑 科学
+西周 similarity attribute list is : 西汉
+识破 similarity attribute list is : 领
+记载 similarity attribute list is : 下载
+罪犯 similarity attribute list is : 罪人
+老爷子 similarity attribute list is : 哥哥 大叔 丈夫
+组织 similarity attribute list is : 骨头 社会
+青铜 similarity attribute list is : 铁
+宝宝 similarity attribute list is : 婴儿
+实施 similarity attribute list is : 展开 执行
+审理 similarity attribute list is : 判
+安徽 similarity attribute list is : 云南
+妹子 similarity attribute list is : 女童
+呼吁 similarity attribute list is : 愿
+声 similarity attribute list is : 声音
+大熊猫 similarity attribute list is : 大象 老虎
+撞 similarity attribute list is : 会晤
+救人 similarity attribute list is : 救命
+提 similarity attribute list is : 高举
+开发 similarity attribute list is : 造
+市长 similarity attribute list is : 总理 元帅
+强制 similarity attribute list is : 逼
+串 similarity attribute list is : 连接 串通
+主任 similarity attribute list is : 县长
+马来西亚 similarity attribute list is : 黎巴嫩
+全球 similarity attribute list is : 中央
+num : 88

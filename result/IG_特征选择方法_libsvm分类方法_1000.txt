@@ -1,0 +1,37 @@
+
+Correctly Classified Instances        1208               62.7207 %
+Incorrectly Classified Instances       718               37.2793 %
+Kappa statistic                          0.5757
+Mean absolute error                      0.0828
+Root mean squared error                  0.2878
+Relative absolute error                 42.0445 %
+Root relative squared error             91.7004 %
+Total Number of Instances             1926     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.680    0.004    0.950      0.680    0.793      0.787    0.838     0.679     体育
+                 0.860    0.252    0.372      0.860    0.519      0.455    0.804     0.340     军事
+                 0.321    0.027    0.607      0.321    0.420      0.393    0.647     0.273     历史
+                 0.667    0.033    0.747      0.667    0.704      0.666    0.817     0.540     时事
+                 0.580    0.025    0.735      0.580    0.649      0.617    0.778     0.471     汽车
+                 0.702    0.006    0.923      0.702    0.798      0.788    0.848     0.677     电影
+                 0.566    0.055    0.552      0.566    0.559      0.506    0.756     0.359     科技
+                 0.459    0.020    0.703      0.459    0.555      0.534    0.719     0.373     综艺娱乐
+                 0.726    0.008    0.918      0.726    0.811      0.799    0.859     0.696     美食
+Weighted Avg.    0.627    0.057    0.705      0.627    0.638      0.607    0.785     0.481     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   <-- classified as
+ 134  52   0   1   4   1   4   1   0 |   a = 体育
+   1 245  14   8   3   0   9   3   2 |   b = 军事
+   2  81  71  32   4   2  22   5   2 |   c = 历史
+   0  33  19 162   8   0  15   4   2 |   d = 时事
+   2  62   2   2 119   2  10   6   0 |   e = 汽车
+   0  33   3   1   4 132   7   8   0 |   f = 电影
+   1  58   3   4  10   1 116   8   4 |   g = 科技
+   1  62   2   6   8   5  11  83   3 |   h = 综艺娱乐
+   0  33   3   1   2   0  16   0 146 |   i = 美食
+
